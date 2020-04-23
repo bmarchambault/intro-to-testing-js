@@ -5,6 +5,6 @@ function helloWorld() {
 
 
 
-function sayHello(){//step 3, confirmed green
-return''//as return'', this passes step 3 of excercise 2
+function sayHello(){
+return 'Hello, Jane!';
 }
